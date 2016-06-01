@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/action_search"
+        android:title="Search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        android:actionViewClass="android.widget.SearchView" />
+
+    <item
+        android:id="@+id/content_2"
+        android:orderInCategory="1"
+        android:title="facebook"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/content_3"
+        android:orderInCategory="2"
+        android:title="twitter"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/content_4"
+        android:orderInCategory="3"
+        android:title="linkedin"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_refresh"
+        app:showAsAction="never"
+        android:title="Action_Bar"/>
+
+
+</menu>

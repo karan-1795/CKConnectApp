@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CKConnect</string>
+    <string-array name="Contents">
+        <item>content_1</item>
+        <item>content_2</item>
+        <item>content_3</item>
+        <item>content_4</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
