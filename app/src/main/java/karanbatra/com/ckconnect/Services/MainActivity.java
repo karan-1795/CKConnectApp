@@ -106,6 +106,7 @@ public class MainActivity extends AppCompatActivity {
 
             return vh;
         }
+        public showDialogue
 
         @Override
         public void onBindViewHolder(ViewHolder holder, int position) {
